@@ -289,6 +289,24 @@ getJasmineRequireObj().Env = function(j$) {
 
     //var maximumSpecCallbackDepth = 20;
     var currentSpecCallbackDepth = 0;
+    var x;
+    var x1;
+    var x3;
+    var x2;
+    var x4;
+    var x5;
+    var x6;
+    var x6;
+    var x7;
+    var x8;
+    var x9;
+    var x0;
+    var x12;
+    var x334;
+    var x45;
+    var x;45;
+    var x56;
+    var x65;
 
     /**
      * Sets whether Jasmine should throw an Error when an expectation fails.
