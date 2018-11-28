@@ -287,7 +287,7 @@ getJasmineRequireObj().Env = function(j$) {
           return buildExpectationResult(attrs);
         };
 
-    var maximumSpecCallbackDepth = 20;
+    //var maximumSpecCallbackDepth = 20;
     var currentSpecCallbackDepth = 0;
 
     /**
